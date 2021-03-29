@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    height: 100%;
+}
+.addTO{
+    margin-top: 12px;
+}
+.fontColor{
+    color: white;
+}
+#description{
+    /*height: 70px;*/
+}
